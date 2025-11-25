@@ -46,7 +46,7 @@ a {
 
 .singleimg-container > img {
     margin: 15px;
-    width: 80%;
+    width: 300px;
     height: auto;
 /* border: solid 1px rgb(91, 212, 21); */
 }
