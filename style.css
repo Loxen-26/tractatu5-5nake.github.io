@@ -41,14 +41,14 @@ a {
     width: 100%;
     margin-top: 25px;
     margin-bottom: 25px;
-border: solid 1px rgb(120, 47, 255);
+/* border: solid 1px rgb(120, 47, 255); */
 }
 
 .singleimg-container > img {
     margin: 15px;
     width: 200px;
     height: auto;
-border: solid 1px rgb(91, 212, 21);
+/* border: solid 1px rgb(91, 212, 21); */
 }
 
 .singleimg-container > .imgcaption {
