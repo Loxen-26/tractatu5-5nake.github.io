@@ -36,9 +36,9 @@ a {
 .singleimg-container {
     display: flex;
     align-items: center;
-    justify-content: space-around;
+    justify-content: center;
     flex-direction: column;
-    width: 50%;
+    width: 100%;
     margin-top: 25px;
     margin-bottom: 25px;
 /* border: solid 1px rgb(120, 47, 255); */
